@@ -1,0 +1,2 @@
+# KSP-07---Nodejs_Authentication-System-with-DIfferent-Room-chat
+A login/signUp authentication system , after successful login user can enter different rooms like JavaScript room or python room and chat with other joined users with timeStamp on messages and dynamic list of joined users , a message with user name will be sent of new user who joins the chat.(Nodejs,socket.io,express , handelbars , html, css, MySQL , xampp).
